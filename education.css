@@ -15,6 +15,7 @@ body {
      #intro {
        color: white;
        background-image: url(images/Background.jpg);
+       
      }
     
     h1  {
@@ -22,12 +23,16 @@ body {
        font-size: 500%;
        line-height: normal;
     text-transform: uppercase;
+        margin-left: 10px;
+   margin-right: 8px;
     } 
     .p1 {
         font-size: 150%;
         color: white;
         padding-top: 0cm;
         padding-bottom: 1cm;
+        margin-left: 10px;
+   margin-right: 8px;
     }  
     ul {
         list-style: none;
