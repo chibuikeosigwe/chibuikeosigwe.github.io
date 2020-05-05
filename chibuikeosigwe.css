@@ -16,6 +16,8 @@ max-width: 100%;
  #intro {
    color: white;
    background-image: url(images/Background.jpg);
+   margin-left: 10px;
+   margin-right: 8px;
  }
 
 h1  {
