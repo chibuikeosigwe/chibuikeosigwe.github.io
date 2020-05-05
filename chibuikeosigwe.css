@@ -16,8 +16,7 @@ max-width: 100%;
  #intro {
    color: white;
    background-image: url(images/Background.jpg);
-   margin-left: 10px;
-   margin-right: 8px;
+   
  }
 
 h1  {
@@ -25,12 +24,16 @@ padding-top: 2cm;
    font-size: 500%;
    line-height: normal;
 text-transform: uppercase;
+    margin-left: 10px;
+   margin-right: 8px;
 } 
 .p1 {
     font-size: 150%;
     color: white;
     padding-top: 0cm;
     padding-bottom: 1cm;
+    margin-left: 10px;
+   margin-right: 8px;
 }  
 ul {
     list-style: none;
